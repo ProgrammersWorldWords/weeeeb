@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #262626;
+}
+h1{
+    margin: 20px;
+}
+#start{
+    margin-top:45px;
+}
+span{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    border: 4px solid #00fff5;
+    font-size: 20px;
+    color:#00fff5;
+    text-align: center;
+    line-height:10px;
+    border-radius:50px;
+    text-transform: uppercase;
+    font-family: Sans-Serif;
+    overflow:hidden;
+    transition: 0.5s;
+    box-shadow: 0 0 10px #00fff5,inset 0 0 0px #00fff5;
+}
+
+#StartButton{ 
+    top: 320px;
+    left:650px;
+    width:300px;
+    height:100px;
+    box-shadow: 0 0 100px #00fff5,inset 0 0 0px #00fff5;
+}
+
+#Html5{   
+    top:65px;
+    left:200px;
+    width:300px;
+    height: 50px;
+}
+
+#JavaScript
+{   
+    top: 65px;
+    left:660px;
+    width:500px;
+    height: 50px;
+}
+
+
+
+#Css3{
+    top:65px;
+    left:1110px;
+    width:300px;
+    height: 50px;
+}
+
+
+#Php{   
+    top:160px;
+    left:500px;
+    width:300px;
+    height: 50px;
+}
+
+#MySql
+{   
+    top:160px;
+    left:830px;
+    width:300px;
+    height: 50px;
+}
+
+#C
+{   
+    top:600px;
+    left:360px;
+    width:300px;
+    height: 50px;
+
+}
+
+#Cplusplus
+{   
+    top:600px;
+    left:700px;
+    width:300px;
+    height: 50px;
+
+}
+
+
+
+#Csharp
+{   
+    top:600px;
+    left:1030px;
+    width:300px;
+    height: 50px;
+
+}
+
+#Java
+{   
+    top:515px;
+    left:830px;
+    width:300px;
+    height: 50px;
+
+}
+
+#Python{   
+    top:515px;
+    left:500px;
+    width:300px;
+    height: 50px;
+}
+
+#LeftSide{   
+    top:120px;
+    left:45px;
+    width:250px;
+    height:420px;
+}
+
+#RightSide{   
+    top:120px;
+    left:1021px;
+    width:250px;
+    height:420px;
+}
+
+.CommonDesign2{
+    position: absolute;
+    border: 4px solid #00fff5;
+    text-align: center;
+    color:#00fff5;
+    border-radius:50px;
+    text-transform: uppercase;
+    font-family: Sans-Serif;
+    box-shadow: 0 0 10px #00fff5;
+}
+h4{
+    color: #00fff5;
+}
+
+#extra{
+    background-color: #00fff5;
+    width: 100px;
+    height: 625px;
+    margin-left: 1295px;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
+
+#music{
+    position: absolute;
+    margin-top: -75px;
+    margin-left:1220px;
+}
+
+
+#htmls{
+    background-color: green;
+    color: red;
+}
